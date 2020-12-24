@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="15.37" tests="1" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_261\jre\bin"/>
+    <property name="java.vm.version" value="25.261-b12"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="Z:\sdet\Sdet8"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="Z:\sdet\Sdet8"/>
+    <property name="java.runtime.version" value="1.8.0_261-b12"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_261\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\vikas\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\SeleniumContent\MavenSetup\apache-maven-3.6.3\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_261\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\app\vikas\product\11.2.0\dbhome_1\bin;C:\app\vikas\product\11.2.0\dbhome_3\bin;C:\Users\vikas\Desktop\product\11.2.0\dbhome_1\bin;C:\app\vikas\product\11.2.0\dbhome_2\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\SeleniumContent\MavenSetup\apache-maven-3.6.3\bin;C:\Program Files\Java\jdk1.8.0_261\bin;C:\Users\vikas\AppData\Local\Android\Sdk\tools;C:\Users\vikas\AppData\Local\Android\Sdk\platform-tools;C:\SeleniumContent\Allure zip setup\allure-2.13.1\bin;C:\Users\vikas\AppData\Local\Android\Sdk\tools\bin;C:\Program Files\nodejs\;C:\Program Files\nodejs\node_modules\npm\bin;C:\Program Files\Git\cmd;C:\strawberry\c\bin;C:\strawberry\perl\bin;C:\Program Files\Taurus\bin;Z:\Junit jar\junit-4.13.jar;C:\Users\vikas\AppData\Local\Programs\Python\Python38-32\Scripts;C:\Users\vikas\AppData\Roaming\npm;C:\Users\vikas\AppData\Roaming\npm\newman;C:\Users\vikas\AppData\Roaming\npm\newman.cmd;C:\Program Files\Java\jdk-10\bin;C:\Program Files\Java\jdk-11\bin;C:\Users\vikas\scoop\shims;C:\Users\vikas\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\vikas\AppData\Local\Programs\Python\Python38-32\;C:\Users\vikas\AppData\Local\Microsoft\WindowsApps;;C:\Users\vikas\AppData\Roaming\npm;C:\Program Files\JetBrains\PyCharm Community Edition 2020.1\bin;C:\Users\vikas\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Docker Toolbox;."/>
+    <property name="maven.conf" value="C:\SeleniumContent\MavenSetup\apache-maven-3.6.3\bin\../conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\SeleniumContent\MavenSetup\apache-maven-3.6.3\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\vikas"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="vikas"/>
+    <property name="java.class.path" value="C:\SeleniumContent\MavenSetup\apache-maven-3.6.3\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_261\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test -Ptestng2"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_261"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_261\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_261\jre\classes"/>
+    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\SeleniumContent\MavenSetup\apache-maven-3.6.3\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="script1" classname="com.sdet.testcases.Script1" time="15.37">
+    <failure message="session not created&#10;from chrome not reachable&#10;  (Session info: chrome=87.0.4280.88)&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;LAPTOP-RDMATUKE&apos;, ip: &apos;192.168.99.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_261&apos;&#10;Driver info: driver.version: ChromeDriver&#10;remote stacktrace: Backtrace:&#10;	Ordinal0 [0x00D5C0C3+3326147]&#10;	Ordinal0 [0x00C40851+2164817]&#10;	Ordinal0 [0x00AC7140+618816]&#10;	Ordinal0 [0x00ABD404+578564]&#10;	Ordinal0 [0x00ABDACB+580299]&#10;	Ordinal0 [0x00ABED35+585013]&#10;	Ordinal0 [0x00AB9D61+564577]&#10;	Ordinal0 [0x00AC82C0+623296]&#10;	Ordinal0 [0x00A66BDD+224221]&#10;	Ordinal0 [0x00A65CAC+220332]&#10;	Ordinal0 [0x00A6189B+202907]&#10;	Ordinal0 [0x00A43DF4+81396]&#10;	Ordinal0 [0x00A44DEE+85486]&#10;	Ordinal0 [0x00A44D79+85369]&#10;	Ordinal0 [0x00C585DC+2262492]&#10;	GetHandleVerifier [0x00EE2874+1487204]&#10;	GetHandleVerifier [0x00EE23CD+1486013]&#10;	GetHandleVerifier [0x00EEA368+1518680]&#10;	GetHandleVerifier [0x00EE2F4E+1488958]&#10;	Ordinal0 [0x00C4ED0D+2223373]&#10;	Ordinal0 [0x00C5A12B+2269483]&#10;	Ordinal0 [0x00C5A26F+2269807]&#10;	Ordinal0 [0x00C6ECB8+2354360]&#10;	BaseThreadInitThunk [0x774EFA29+25]&#10;	RtlGetAppContainerNamedObjectPath [0x77D275F4+228]&#10;	RtlGetAppContainerNamedObjectPath [0x77D275C4+180]&#10;" type="org.openqa.selenium.SessionNotCreatedException"><![CDATA[org.openqa.selenium.SessionNotCreatedException: session not created
+from chrome not reachable
+  (Session info: chrome=87.0.4280.88)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RDMATUKE', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00D5C0C3+3326147]
+	Ordinal0 [0x00C40851+2164817]
+	Ordinal0 [0x00AC7140+618816]
+	Ordinal0 [0x00ABD404+578564]
+	Ordinal0 [0x00ABDACB+580299]
+	Ordinal0 [0x00ABED35+585013]
+	Ordinal0 [0x00AB9D61+564577]
+	Ordinal0 [0x00AC82C0+623296]
+	Ordinal0 [0x00A66BDD+224221]
+	Ordinal0 [0x00A65CAC+220332]
+	Ordinal0 [0x00A6189B+202907]
+	Ordinal0 [0x00A43DF4+81396]
+	Ordinal0 [0x00A44DEE+85486]
+	Ordinal0 [0x00A44D79+85369]
+	Ordinal0 [0x00C585DC+2262492]
+	GetHandleVerifier [0x00EE2874+1487204]
+	GetHandleVerifier [0x00EE23CD+1486013]
+	GetHandleVerifier [0x00EEA368+1518680]
+	GetHandleVerifier [0x00EE2F4E+1488958]
+	Ordinal0 [0x00C4ED0D+2223373]
+	Ordinal0 [0x00C5A12B+2269483]
+	Ordinal0 [0x00C5A26F+2269807]
+	Ordinal0 [0x00C6ECB8+2354360]
+	BaseThreadInitThunk [0x774EFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77D275F4+228]
+	RtlGetAppContainerNamedObjectPath [0x77D275C4+180]
+
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+	at java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:958)
+	at java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:126)
+	at java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:499)
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:486)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)
+	at java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:152)
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:464)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+	at com.sdet.testcases.Script1.script1(Script1.java:43)
+]]></failure>
+    <system-out><![CDATA[[TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >" at the top of your file, otherwise TestNG may fail or not work as expected.
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 87.0.4280.88 (89e2380a3e36c3464b5dd1302349b1382549290d-refs/branch-heads/4280@{#1761}) on port 29611
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1608649697.698][WARNING]: Timed out connecting to Chrome, retrying...
+]]></system-err>
+  </testcase>
+</testsuite>

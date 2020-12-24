@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Home page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Opportunities list page is dislayed]]>
+    </line>
+    <line>
+      <![CDATA[Creating New Opportunity page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[created Opportunities is succesfully verified]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="115817" started-at="2020-12-24T09:15:25 IST" finished-at="2020-12-24T09:17:20 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="115817" started-at="2020-12-24T09:15:25 IST" finished-at="2020-12-24T09:17:20 IST">
+      <class name="com.sdet.testcases.Opportunity">
+        <test-method status="PASS" signature="configBeforeSuite()[pri:0, instance:com.sdet.testcases.Opportunity@6ee52dcd]" name="configBeforeSuite" is-config="true" duration-ms="14" started-at="2020-12-24T09:15:25 IST" finished-at="2020-12-24T09:15:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeSuite -->
+        <test-method status="PASS" signature="configBeforeClass()[pri:0, instance:com.sdet.testcases.Opportunity@6ee52dcd]" name="configBeforeClass" is-config="true" duration-ms="6360" started-at="2020-12-24T09:15:25 IST" finished-at="2020-12-24T09:15:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeClass -->
+        <test-method status="PASS" signature="cofigBeforeMtd()[pri:0, instance:com.sdet.testcases.Opportunity@6ee52dcd]" name="cofigBeforeMtd" is-config="true" duration-ms="3683" started-at="2020-12-24T09:15:31 IST" finished-at="2020-12-24T09:15:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigBeforeMtd -->
+        <test-method status="PASS" signature="createOrgnazationTest()[pri:0, instance:com.sdet.testcases.Opportunity@6ee52dcd]" name="createOrgnazationTest" duration-ms="20269" started-at="2020-12-24T09:15:35 IST" finished-at="2020-12-24T09:15:55 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Home page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrgnazationTest -->
+        <test-method status="PASS" signature="configAfterMethode()[pri:0, instance:com.sdet.testcases.Opportunity@6ee52dcd]" name="configAfterMethode" is-config="true" duration-ms="12324" started-at="2020-12-24T09:15:55 IST" finished-at="2020-12-24T09:16:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterMethode -->
+        <test-method status="PASS" signature="cofigBeforeMtd()[pri:0, instance:com.sdet.testcases.Opportunity@6ee52dcd]" name="cofigBeforeMtd" is-config="true" duration-ms="5985" started-at="2020-12-24T09:16:07 IST" finished-at="2020-12-24T09:16:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigBeforeMtd -->
+        <test-method status="PASS" signature="createOpportunityOneTest()[pri:1, instance:com.sdet.testcases.Opportunity@6ee52dcd]" name="createOpportunityOneTest" duration-ms="58985" started-at="2020-12-24T09:16:13 IST" depends-on-methods="com.sdet.testcases.Opportunity.createOrgnazationTest" finished-at="2020-12-24T09:17:12 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Home page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Opportunities list page is dislayed]]>
+            </line>
+            <line>
+              <![CDATA[Creating New Opportunity page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[created Opportunities is succesfully verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOpportunityOneTest -->
+        <test-method status="PASS" signature="configAfterMethode()[pri:0, instance:com.sdet.testcases.Opportunity@6ee52dcd]" name="configAfterMethode" is-config="true" duration-ms="3893" started-at="2020-12-24T09:17:12 IST" finished-at="2020-12-24T09:17:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterMethode -->
+        <test-method status="PASS" signature="confifAfterClass()[pri:0, instance:com.sdet.testcases.Opportunity@6ee52dcd]" name="confifAfterClass" is-config="true" duration-ms="4258" started-at="2020-12-24T09:17:16 IST" finished-at="2020-12-24T09:17:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confifAfterClass -->
+        <test-method status="PASS" signature="configAsterSuite()[pri:0, instance:com.sdet.testcases.Opportunity@6ee52dcd]" name="configAsterSuite" is-config="true" duration-ms="1" started-at="2020-12-24T09:17:20 IST" finished-at="2020-12-24T09:17:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAsterSuite -->
+      </class> <!-- com.sdet.testcases.Opportunity -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
