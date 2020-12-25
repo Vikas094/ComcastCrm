@@ -91,7 +91,7 @@ public class Script1 {
 
 		// click on search now
 		driver.findElement(By.name("submit")).click();
-//		Thread.sleep(7000);
+	        Thread.sleep(7000);
 //		actmsg=driver.findElement(By.xpath("//table[@class='lvt small']/tbody/tr[@class='lvtColData']/td[3]/a[text()='"+orgName+"']")).getText();
 //		System.out.println(actmsg);
 //		Assert.assertEquals(actmsg, orgName, "Mismatch");
